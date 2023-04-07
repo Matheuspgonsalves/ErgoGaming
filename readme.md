@@ -1,0 +1,3 @@
+Esse projeto foi desenvolvido como um trabalho em minha disciplina de Desenvolvimento de Interfaces Web e objetivo era colocar em prática os conhecimentos que foram ensinados sobre HTML,CSS, responsividade e Bootstrap.
+
+O design da interface não era um critério a ser avaliado, sendo assim, percebe-se alguns elementos com pouca ou quase nenhuma estilização que viesse a contribuir no visual da página. 
